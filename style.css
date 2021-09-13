@@ -30,7 +30,8 @@ h2 {
     background-color: white;
     padding: 0 .5vw;
     position: absolute;
-    bottom: -1vw;
+    bottom: 0;
+    transform: translateY(50%);
 }
 
 main {
